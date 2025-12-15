@@ -1,2 +1,3 @@
 # 3D-Airplane-Game
 3D Airplane Game in C++ using OpenGL and GLUT
+This project is a 3D airplane game developed in C++ using OpenGL and GLUT. The player controls a plane flying through randomly generated obstacles, aiming to avoid collisions while scoring points. It demonstrates real-time graphics rendering, keyboard-based controls, and basic game mechanics. The project is designed for learning and practicing computer graphics concepts, including transformations, object modeling, and collision detection. Future improvements could include enhanced graphics, multiple levels, power-ups, and sound effects to make the game more engaging.
